@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60b03243.css",
+    "main.js": "/static/js/main.e572e634.js",
+    "static/media/lato-italic.ttf": "/static/media/lato-italic.22694696c76f3f352b01.ttf",
+    "static/media/lato-bolditalic.ttf": "/static/media/lato-bolditalic.50fe8d1523af5d944dba.ttf",
+    "static/media/lato-regular.ttf": "/static/media/lato-regular.bb14dc80e8b5d860fe9c.ttf",
+    "static/media/lato-bold.ttf": "/static/media/lato-bold.8acc961684668b6e28e9.ttf",
+    "static/media/lato-italic.woff": "/static/media/lato-italic.62a9c838c99d073c7ba6.woff",
+    "static/media/lato-bolditalic.woff": "/static/media/lato-bolditalic.3e6b99809852a8290c42.woff",
+    "static/media/lato-bold.woff": "/static/media/lato-bold.89b618086a797a8be0f4.woff",
+    "static/media/lato-regular.woff": "/static/media/lato-regular.1d2ca94dfba6f8d87cfd.woff",
+    "static/media/lato-italic.eot": "/static/media/lato-italic.2f91a4b63d1e65b9dc8e.eot",
+    "static/media/lato-italicd41d.eot": "/static/media/lato-italicd41d.2f91a4b63d1e65b9dc8e.eot",
+    "static/media/lato-bolditalic.eot": "/static/media/lato-bolditalic.add7906632a672c46d96.eot",
+    "static/media/lato-bolditalicd41d.eot": "/static/media/lato-bolditalicd41d.add7906632a672c46d96.eot",
+    "static/media/lato-bold.eot": "/static/media/lato-bold.825d6d758b2655ab90e8.eot",
+    "static/media/lato-boldd41d.eot": "/static/media/lato-boldd41d.825d6d758b2655ab90e8.eot",
+    "static/media/lato-regular.eot": "/static/media/lato-regular.19df47b6173ee16371f8.eot",
+    "static/media/lato-regulard41d.eot": "/static/media/lato-regulard41d.19df47b6173ee16371f8.eot",
+    "static/media/lato-italic.woff2": "/static/media/lato-italic.bb5de40edffdbd3ab519.woff2",
+    "static/media/lato-bolditalic.woff2": "/static/media/lato-bolditalic.e48918f9c91871c0ce3e.woff2",
+    "static/media/lato-bold.woff2": "/static/media/lato-bold.21b3848a32fce5b0f501.woff2",
+    "static/media/lato-regular.woff2": "/static/media/lato-regular.75614cfcfedd509b1f7a.woff2",
+    "static/media/roboto-slab-v7-bold.ttf": "/static/media/roboto-slab-v7-bold.51f4a5c5a1748a4d53be.ttf",
+    "static/media/roboto-slab-v7-regular.ttf": "/static/media/roboto-slab-v7-regular.14803206dbac249f4c39.ttf",
+    "static/media/roboto-slab-v7-bold.woff": "/static/media/roboto-slab-v7-bold.309263a46e963498d618.woff",
+    "static/media/roboto-slab-v7-regular.woff": "/static/media/roboto-slab-v7-regular.e639ae6ee30076eb28c5.woff",
+    "static/media/roboto-slab-v7-bold.eot": "/static/media/roboto-slab-v7-bold.a669e062fad8803296a0.eot",
+    "static/media/roboto-slab-v7-boldd41d.eot": "/static/media/roboto-slab-v7-boldd41d.a669e062fad8803296a0.eot",
+    "static/media/roboto-slab-v7-regulard41d.eot": "/static/media/roboto-slab-v7-regulard41d.e541c34f0e63aff4d802.eot",
+    "static/media/roboto-slab-v7-bold.woff2": "/static/media/roboto-slab-v7-bold.9d6189f8a47838cb0c2d.woff2",
+    "static/media/roboto-slab-v7-regular.woff2": "/static/media/roboto-slab-v7-regular.4efe7bc8f6f469e5bdea.woff2",
+    "static/media/roboto-slab.html": "/static/media/roboto-slab.63f42d95c07126457d37.html",
+    "index.html": "/index.html",
+    "main.60b03243.css.map": "/static/css/main.60b03243.css.map",
+    "main.e572e634.js.map": "/static/js/main.e572e634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b03243.css",
+    "static/js/main.e572e634.js"
+  ]
+}
