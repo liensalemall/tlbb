@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.60b03243.css",
-    "main.js": "/static/js/main.e572e634.js",
+    "main.js": "/static/js/main.2d808682.js",
     "static/media/lato-italic.ttf": "/static/media/lato-italic.22694696c76f3f352b01.ttf",
     "static/media/lato-bolditalic.ttf": "/static/media/lato-bolditalic.50fe8d1523af5d944dba.ttf",
     "static/media/lato-regular.ttf": "/static/media/lato-regular.bb14dc80e8b5d860fe9c.ttf",
@@ -34,10 +34,10 @@
     "static/media/roboto-slab.html": "/static/media/roboto-slab.63f42d95c07126457d37.html",
     "index.html": "/index.html",
     "main.60b03243.css.map": "/static/css/main.60b03243.css.map",
-    "main.e572e634.js.map": "/static/js/main.e572e634.js.map"
+    "main.2d808682.js.map": "/static/js/main.2d808682.js.map"
   },
   "entrypoints": [
     "static/css/main.60b03243.css",
-    "static/js/main.e572e634.js"
+    "static/js/main.2d808682.js"
   ]
 }
